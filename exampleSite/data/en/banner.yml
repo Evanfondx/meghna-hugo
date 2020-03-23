@@ -1,12 +1,13 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/cover.webp
+  bg_image: images/cover.jpg
+  icon: ''
+  title: Sensasi Baru Nyemil Coklat
+  content: Money can't buy happiness, but it can buy Chocospacian, and that's the
+    next best thing!
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Explore Us
+    link: "#services"
