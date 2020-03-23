@@ -31,7 +31,7 @@ name = "Testimoni"
 weight = 5
 [[menu.main]]
 URL = "blog"
-name = "Blog"
+name = "ChocoBlog"
 weight = 6
 [[menu.main]]
 URL = "contact"
