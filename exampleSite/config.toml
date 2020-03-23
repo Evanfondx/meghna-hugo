@@ -20,7 +20,7 @@ weight = 2
 [menu]
 static = []
 [[menu.main]]
-URL = "funfacts"
+URL = "cta"
 name = "Siapa Kita"
 weight = 1
 [[menu.main]]
