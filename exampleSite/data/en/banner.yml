@@ -9,5 +9,5 @@ banner:
     next best thing!
   button:
     enable: true
-    label: Explore Us
-    link: "#services"
+    label: Lihat Produk
+    link: "#portfolio"
