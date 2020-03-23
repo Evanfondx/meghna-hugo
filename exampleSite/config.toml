@@ -9,7 +9,7 @@ title = "Meghna"
 contentDir = "content/english"
 home = "Home"
 languageCode = "en-us"
-languageName = "En"
+languageName = "ID"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
