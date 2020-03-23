@@ -28,7 +28,7 @@ URL = "portfolio"
 name = "Produk"
 weight = 3
 [[menu.main]]
-URL = "pricing"
+URL = "testimonials"
 name = "Testimoni"
 weight = 5
 [[menu.main]]
